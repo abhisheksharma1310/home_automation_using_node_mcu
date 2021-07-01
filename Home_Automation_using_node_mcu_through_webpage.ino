@@ -71,21 +71,4 @@ void loop()
   client.println("</body>");
   client.println("</body>");
 }
-/*
- * <!DOCTYPE html>
-<html>
-<head>
-<title>ESP Server</title>
-</head>
-<body>
-<h1>Home Automation</h1>
-<p>Control the Appliances</p>
-<br>
-<a href=\"/led1on\"\"><button>Light 1 ON</button></a>
-<a href=\"/led1off\"\"><button>Light 1 OFF</button></a><br/>
-<br>
-<a href=\"/led2on\"\"><button>Light 2 ON</button></a>
-<a href=\"/led2off\"\"><button>Light 2 OFF</button></a><br/>
-</body>
-</body>
- */
+
